@@ -106,3 +106,5 @@ graph TD
 |**Итого:**           |**6.5**|  **33 200**  |
 
 edited 
+[![Логотип Пятёрочки](https://wikimedia.org)](https://5ka.ru)
+
